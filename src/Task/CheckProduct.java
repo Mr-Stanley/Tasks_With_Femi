@@ -1,7 +1,7 @@
-package MrFemiWorks;
+package Task;
 
-public class checkProduct {
-    static int theProducts(int [] number){
+public class CheckProduct {
+   public static int theProducts(int[] number){
         int firstDigit = number[0];
         int secondDigit = number[0];
 

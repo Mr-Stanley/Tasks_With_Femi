@@ -1,8 +1,8 @@
-package MrFemiWorks;
+package Task;
+
 public class IntegerArray {
 
-
-    static int arrayDifference(int [] numbers) {
+    public static int arrayDifference(int [] numbers) {
         int bigDigit = numbers[0];
         int smallDigit = numbers[0];
 
